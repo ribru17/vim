@@ -114,6 +114,7 @@ runtime/ftplugin/awk.vim		@dkearns
 runtime/ftplugin/basic.vim		@dkearns
 runtime/ftplugin/bst.vim		@tpope
 runtime/ftplugin/cedar.vim		@ribru17
+runtime/ftplugin/cabalproject.vim	@ribru17
 runtime/ftplugin/cfg.vim		@chrisbra
 runtime/ftplugin/chatito.vim		@ObserverOfTime
 runtime/ftplugin/chicken.vim		@evhan
